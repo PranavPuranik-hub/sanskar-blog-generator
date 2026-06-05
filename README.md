@@ -41,7 +41,7 @@ BLOG GENRATOR 12/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sanskar-blog-generator.git
+https://github.com/PranavPuranik-hub/sanskar-blog-generator.git
 cd sanskar-blog-generator
 ```
 
