@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+env/
+
+# Node.js
+node_modules/
+package-lock.json   # optional, lock file can be committed in some projects
+
+# Environment & secrets
+.env
+service_account.json
+
+# IDE / OS junk (optional)
+.DS_Store
+.vscode/
+.idea/
+
+# Generated or temporary files
+*.log
+*.pid
